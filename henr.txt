@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/SPIDROSH/Hcjskls/refs/heads/main/henreg.txt'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SPIDROSH/GrowaGarden/refs/heads/main/henreiy.txt'))()
